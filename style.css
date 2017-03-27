@@ -1,0 +1,24 @@
+body {
+    background-image: url("assets/spacebackground.jpg");
+    background-color: #cccccc;
+}
+
+
+.box1 {
+  height: 350px;
+  background-color: lightblue;
+  border: solid 5px navy;
+  border-radius: 3%;
+}
+
+
+#planet {
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+}
+
+
+#divider {
+  height: 100px;
+}
